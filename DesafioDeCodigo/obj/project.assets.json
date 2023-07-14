@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gbrya\\Projetos\\DesafioDeCodigoBasico\\DesafioDeCodigoBasico.csproj",
+      "projectUniqueName": "C:\\Users\\gbrya\\Projetos\\DesafioDeCodigoBasico\\DesafioDeCodigo\\DesafioDeCodigoBasico.csproj",
       "projectName": "DesafioDeCodigoBasico",
-      "projectPath": "C:\\Users\\gbrya\\Projetos\\DesafioDeCodigoBasico\\DesafioDeCodigoBasico.csproj",
+      "projectPath": "C:\\Users\\gbrya\\Projetos\\DesafioDeCodigoBasico\\DesafioDeCodigo\\DesafioDeCodigoBasico.csproj",
       "packagesPath": "C:\\Users\\gbrya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gbrya\\Projetos\\DesafioDeCodigoBasico\\obj\\",
+      "outputPath": "C:\\Users\\gbrya\\Projetos\\DesafioDeCodigoBasico\\DesafioDeCodigo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gbrya\\AppData\\Roaming\\NuGet\\NuGet.Config"

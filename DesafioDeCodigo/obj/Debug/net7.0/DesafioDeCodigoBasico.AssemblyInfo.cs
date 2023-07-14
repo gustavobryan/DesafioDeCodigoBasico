@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DesafioDeCodigo.Common")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DesafioDeCodigoBasico")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("DesafioDeCodigo.Common")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DesafioDeCodigo.Common")]
+[assembly: System.Reflection.AssemblyProductAttribute("DesafioDeCodigoBasico")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DesafioDeCodigoBasico")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

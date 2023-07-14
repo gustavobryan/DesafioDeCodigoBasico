@@ -1,0 +1,15 @@
+C:\Users\gbrya\Projetos\DesafioDeCodigoBasico\DesafioDeCodigo\bin\Debug\net7.0\DesafioDeCodigoBasico.exe
+C:\Users\gbrya\Projetos\DesafioDeCodigoBasico\DesafioDeCodigo\bin\Debug\net7.0\DesafioDeCodigoBasico.deps.json
+C:\Users\gbrya\Projetos\DesafioDeCodigoBasico\DesafioDeCodigo\bin\Debug\net7.0\DesafioDeCodigoBasico.runtimeconfig.json
+C:\Users\gbrya\Projetos\DesafioDeCodigoBasico\DesafioDeCodigo\bin\Debug\net7.0\DesafioDeCodigoBasico.dll
+C:\Users\gbrya\Projetos\DesafioDeCodigoBasico\DesafioDeCodigo\bin\Debug\net7.0\DesafioDeCodigoBasico.pdb
+C:\Users\gbrya\Projetos\DesafioDeCodigoBasico\DesafioDeCodigo\obj\Debug\net7.0\DesafioDeCodigoBasico.csproj.AssemblyReference.cache
+C:\Users\gbrya\Projetos\DesafioDeCodigoBasico\DesafioDeCodigo\obj\Debug\net7.0\DesafioDeCodigoBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbrya\Projetos\DesafioDeCodigoBasico\DesafioDeCodigo\obj\Debug\net7.0\DesafioDeCodigoBasico.AssemblyInfoInputs.cache
+C:\Users\gbrya\Projetos\DesafioDeCodigoBasico\DesafioDeCodigo\obj\Debug\net7.0\DesafioDeCodigoBasico.AssemblyInfo.cs
+C:\Users\gbrya\Projetos\DesafioDeCodigoBasico\DesafioDeCodigo\obj\Debug\net7.0\DesafioDeCodigoBasico.csproj.CoreCompileInputs.cache
+C:\Users\gbrya\Projetos\DesafioDeCodigoBasico\DesafioDeCodigo\obj\Debug\net7.0\DesafioDeCodigoBasico.dll
+C:\Users\gbrya\Projetos\DesafioDeCodigoBasico\DesafioDeCodigo\obj\Debug\net7.0\refint\DesafioDeCodigoBasico.dll
+C:\Users\gbrya\Projetos\DesafioDeCodigoBasico\DesafioDeCodigo\obj\Debug\net7.0\DesafioDeCodigoBasico.pdb
+C:\Users\gbrya\Projetos\DesafioDeCodigoBasico\DesafioDeCodigo\obj\Debug\net7.0\DesafioDeCodigoBasico.genruntimeconfig.cache
+C:\Users\gbrya\Projetos\DesafioDeCodigoBasico\DesafioDeCodigo\obj\Debug\net7.0\ref\DesafioDeCodigoBasico.dll
